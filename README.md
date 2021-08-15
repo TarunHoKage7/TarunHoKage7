@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TarunHoKage7
+- 👀 I’m interested in software development, artificial intelligence and automation.
+- 🌱 I’m currently learning data analytics and cybersecurity.
+- 💞️ I’m looking to collaborate on web and android(Flutter) and data analytics projects
+- 📫 Here's my mail id: saikalyantarun2001@gmail.com
