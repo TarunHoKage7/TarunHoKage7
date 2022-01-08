@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarunHoKage7
 - 👀 I’m interested in software development, artificial intelligence and automation.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web and android(Flutter) projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Here's my mail id: saikalyantarun2001@gmail.com
