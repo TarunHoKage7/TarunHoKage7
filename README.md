@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Here's my mail id: saikalyantarun2001@gmail.com
--    I understand bits and pieces about AI(ML), flutter, IoT, cybersecurity and Data analytics.
+-    I understand bits and pieces of AI(ML), flutter, IoT, cybersecurity and Data analytics.
