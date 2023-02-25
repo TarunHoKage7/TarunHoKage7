@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TarunHoKage7.
 - 👀 I’m a web developmer.
 - 🌱 I am also interested in artificial intelligence, cybersec and automation(IoT).
-- 📫 Here's my mail id: saikalyantarun2001@gmail.com
+- 📫 You can write to me at saikalyantarun2001@gmail.com
+- 📫 Here's my LinkedIn: https://www.linkedin.com/in/tarunsaikalyanvadlamudi/
