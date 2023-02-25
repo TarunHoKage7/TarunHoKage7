@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TarunHoKage7.
-- 👀 I’m interested in software development, artificial intelligence and automation(IoT).
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m a web developmer.
+- 🌱 I am also interested in artificial intelligence, cybersec and automation(IoT).
 - 📫 Here's my mail id: saikalyantarun2001@gmail.com
--    I understand bits and pieces of AI(ML), flutter, IoT, cybersecurity and Data analytics.
