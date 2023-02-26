@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarunHoKage7.
-- 👀 I’m a web developmer.
+- 👀 I’m a web developer.
 - 🌱 I am also interested in artificial intelligence, cybersec and automation(IoT).
 - 📫 You can reach me at:
 - 📫 mail: saikalyantarun2001@gmail.com
