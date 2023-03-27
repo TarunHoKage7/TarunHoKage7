@@ -17,3 +17,18 @@
 - 👨‍💻 All of my projects are available at [https://saikalyantarun.netlify.app/](https://saikalyantarun.netlify.app/)
 - 📫 Email me at **saikalyantarun2001@gmail.com**
 - 📫 LinkedIn: https://www.linkedin.com/in/tarunsaikalyanvadlamudi/
+
+## Languages and Tools:
+
+<p align="left">
+<img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=aaceb8&style=flat&logo=react"/>
+<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=aaceb8&style=flat&logo=javascript"/>
+<img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=aaceb8&style=flat&logo="/> 
+<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=aaceb8&style=flat&logo=mongodb"/>
+<img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=aaceb8&style=flat&logo=express"/>
+<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=aaceb8&style=flat&logo=html5"/>
+<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=aaceb8&style=flat&logo=css3"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=GIT&color=aaceb8&style=flat&logo=git"/> 
+
+</p>
+
