@@ -12,9 +12,8 @@
   </a>
 </div>
 
+##ABOUT ME:
 
-- 🌱 I am also interested in artificial intelligence, cybersec and automation(IoT).
-- 📫 You can reach me at:
-- 📫 mail: saikalyantarun2001@gmail.com
+- 👨‍💻 All of my projects are available at [https://saikalyantarun.netlify.app/](https://saikalyantarun.netlify.app/)
+- 📫 Email me at **saikalyantarun2001@gmail.com**
 - 📫 LinkedIn: https://www.linkedin.com/in/tarunsaikalyanvadlamudi/
-- 📫 Discord: Tarunhokage#7471
