@@ -20,7 +20,7 @@
 
 ## Languages and Tools:
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=aaceb8&style=flat&logo=react"/>
 <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=aaceb8&style=flat&logo=javascript"/>
 <img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=aaceb8&style=flat&logo="/> 
