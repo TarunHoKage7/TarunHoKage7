@@ -12,7 +12,7 @@
   </a>
 </div>
 
-##ABOUT ME:
+## ABOUT ME:
 
 - 👨‍💻 All of my projects are available at [https://saikalyantarun.netlify.app/](https://saikalyantarun.netlify.app/)
 - 📫 Email me at **saikalyantarun2001@gmail.com**
