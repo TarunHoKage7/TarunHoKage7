@@ -35,6 +35,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TarunHoKage7&theme=onedark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunHoKage7&theme=onedark&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunHoKage7&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunHoKage7&theme=onedark&layout=compact"/>
 </p>
