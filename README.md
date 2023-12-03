@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=aaceb8&style=flat&logo=amazon"/> 
 </p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TarunHoKage7&theme=onedark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunHoKage7&theme=onedark&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunHoKage7&theme=onedark"/>
+</p>
