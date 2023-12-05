@@ -14,7 +14,7 @@
 
 ## ABOUT ME:
 
-- 👨‍💻 All of my projects are available at [https://saikalyantarun.netlify.app/](https://saikalyantarun.netlify.app/)
+- 👨‍💻 Most of my projects are available at [https://saikalyantarun.netlify.app/](https://saikalyantarun.netlify.app/)
 - 🖥️ Currently working on [Dev-Directory](https://github.com/timmyichen/dev-directory)
 - 📫 Email me at **saikalyantarun2001@gmail.com**
 - 📫 LinkedIn: https://www.linkedin.com/in/tarunsaikalyanvadlamudi/
