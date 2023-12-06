@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi 👋, I'm Tarun</h1>
+  <h1>Hello 👋, I'm Sai Kalyan Tarun</h1>
   <h3>A full-stack software engineer.</h3>
   <a href="https://www.linkedin.com/in/tarunsaikalyanvadlamudi/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=aaceb8&style=flat&logo=linkedin"/>
